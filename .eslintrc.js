@@ -28,14 +28,14 @@ module.exports = {
     'consistent-return': 0,
     'no-alert': 0,
     'react/jsx-no-constructed-context-values': 0,
-    'import/extensions': 0,
+    'import/extensions': 1,
     'react/prop-types': 0,
-    'linebreak-style': 0,
+    'linebreak-style': 1,
     'react/state-in-constructor': 0,
     'import/prefer-default-export': 0,
     'react/react-in-jsx-scope': 'off',
     'react/jsx-props-no-spreading': 'off',
-    'jsx-a11y/no-noninteractive-element-interactions': 'off',
+    'jsx-a11y/no-noninteractive-element-interactions': 'on',
     'react/function-component-definition': [
       2,
       {

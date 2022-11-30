@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* reset CSS */
 * {
   margin: 0;
   padding: 0;
@@ -9,7 +10,7 @@
   font-family: "Eudoxus Sans", sans-serif;
   scroll-behavior: smooth;
 }
-
+/* Define var color */
 .gradient-01 {
   background-image: linear-gradient(
     270deg,

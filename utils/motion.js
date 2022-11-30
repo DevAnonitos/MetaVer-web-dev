@@ -1,3 +1,5 @@
+// define CSS props components
+
 export const navVariants = {
   hidden: {
     opacity: 0,

@@ -1,3 +1,4 @@
+// import components
 import Navbar from './Navbar';
 import { TypingText, TitleText } from './CustomTexts';
 import ExploreCard from './ExploreCard';
@@ -6,6 +7,7 @@ import NewFeatures from './NewFeatures';
 import InsightCard from './InsightCard';
 import Footer from './Footer';
 
+// export components
 export {
   Navbar,
   TitleText,

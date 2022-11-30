@@ -1,3 +1,5 @@
+// next js config frameWork
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   experimental: {

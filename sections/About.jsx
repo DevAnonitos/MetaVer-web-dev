@@ -47,6 +47,13 @@ const About = () => {
           className="w-[18px] h-[28px] object-contain mt-[28px] cursor-pointer"
         >
         </motion.img>
+        <motion.img
+            variants={fadeIn('up', 'tween', 0.3, 1)}
+            src="https://cdn.dribbble.com/users/322438/screenshots/2062923/____2.gif"
+            alt="arrow-down"
+            className="w-[880px] h-[450px] object-cover mt-[28px] cursor-default rounded-lg shadow-teal-200"
+        >
+        </motion.img>
       </motion.div>
       About section
     </section>

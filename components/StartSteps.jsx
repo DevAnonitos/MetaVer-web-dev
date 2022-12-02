@@ -16,4 +16,4 @@ const StartSteps = ({ number, text }) => (
   </div>
 );
 
-export default StartSteps;
+export default StartSteps; 
